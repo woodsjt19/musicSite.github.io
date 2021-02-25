@@ -1,0 +1,7 @@
+.text-responsive {
+    font-size: calc(100% + 1vw + 1vh)
+}
+
+.text-responsive-p {
+    font-size: calc(50% + 1vw + 1vh)
+}
